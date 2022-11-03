@@ -1,0 +1,11 @@
+C:\Users\hmack\source\repos\testDB\testDB\bin\Debug\testDB.exe.config
+C:\Users\hmack\source\repos\testDB\testDB\bin\Debug\testDB.exe
+C:\Users\hmack\source\repos\testDB\testDB\bin\Debug\testDB.pdb
+C:\Users\hmack\source\repos\testDB\testDB\obj\Debug\testDB.csproj.AssemblyReference.cache
+C:\Users\hmack\source\repos\testDB\testDB\obj\Debug\testDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\hmack\source\repos\testDB\testDB\obj\Debug\testDB.Form1.resources
+C:\Users\hmack\source\repos\testDB\testDB\obj\Debug\testDB.Properties.Resources.resources
+C:\Users\hmack\source\repos\testDB\testDB\obj\Debug\testDB.csproj.GenerateResource.cache
+C:\Users\hmack\source\repos\testDB\testDB\obj\Debug\testDB.csproj.CoreCompileInputs.cache
+C:\Users\hmack\source\repos\testDB\testDB\obj\Debug\testDB.exe
+C:\Users\hmack\source\repos\testDB\testDB\obj\Debug\testDB.pdb
